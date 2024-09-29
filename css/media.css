@@ -1,0 +1,345 @@
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 992px) {
+    .nav-menu-active::after {
+        width: 3%;
+    }
+
+    .nav-menu {
+        margin-left: 0;
+    }
+    .correct-icon{
+        margin-left: 121px;
+    }
+    .banner-section-box-line{
+        margin-left: 4px;
+    }
+    .banner-section-box-line2{
+        margin-left: 4px;
+    }
+    .banner-section-box-line3{
+        margin-left: 4px;
+    }
+    .banner-section-para{
+        font-size: 12px;
+    }
+    .banner-section-hadding{
+        font-size: 35px;
+    }
+    .banner-section-para2{
+        font-size: 12px;
+    }
+    .banner-section-pic2{
+        margin-top: 50%;
+    }
+    .banner-section-client-box2{
+        width: 70%;
+        margin-top: -65%;
+    }
+    .banner-section-card-icon{
+        font-size: 20px;
+    }
+    .banner-section-client-box2-para{
+        font-size: 15px;
+    }
+    .mic-icon {
+        font-size: 20px;
+        padding: 8px 12px;
+        margin-top: 31%;
+    }
+    .banner-section-button{
+        font-size: 14px;
+    }
+    .banner-section-button2{
+        font-size: 14px;
+    }
+    .followers-box{
+        width: 18%;
+        margin-left: 7%;
+    }
+    .banner-section-box{
+        margin-top: -18px;
+    }
+    .about-section-box{
+        height: 215px;
+    }
+    .about-section-box2-para{
+        font-size: 10px;
+    }
+    .layer-icon{
+        margin-top: -28%;
+    }
+    .skill-section-box-persen{
+        padding: 10px 4px;
+    }
+    .skill-section-box-postion{
+        margin-top: 50%;
+    }
+    .skill-section-box-postion-pic{
+        margin-top: -35%;
+    }
+}
+
+@media only screen and (max-width: 774px) {
+    .nav-menu-active::after {
+        width: 7%;
+    }
+
+    .nav-menu {
+        margin-left: 0;
+    }
+
+    .banner-section-pic {
+        width: 59%;
+        margin-top: -91.2%;
+        margin-left: 65px;
+    }
+
+    .banner-section-client-box {
+        width: 37%;
+        margin-top: -59%;
+        margin-left: 11px;
+    }
+
+    .correct-icon {
+        margin-top: -57%;
+        margin-left: 252px;
+    }
+
+    .banner-section-colour-round {
+        background: none;
+    }
+
+    .banner-section-box-line {
+        width: 5px;
+        height: 50px;
+        background-color: var(--yellow-color);
+        border-radius: 10px;
+        margin-top: -2.3%;
+        margin-left: 20px;
+    }
+
+    .banner-section-box-line2 {
+        width: 5px;
+        height: 60px;
+        background-color: var(--yellow-color);
+        border-radius: 10px;
+        margin-top: -8%;
+        margin-left: 10px;
+    }
+
+    .banner-section-box-line3 {
+        width: 5px;
+        height: 40px;
+        background-color: var(--yellow-color);
+        border-radius: 10px;
+        margin-top: 6px;
+        margin-left: 10px;
+    }
+
+    .banner-section-box-line4 {
+        width: 5px;
+        height: 70px;
+        background-color: var(--yellow-color);
+        border-radius: 10px;
+        margin-top: -15%;
+        margin-left: 10px;
+    }
+    .mic-icon {
+        margin-top: 100%;
+        margin-left: 74%;
+    }
+    .banner-section-box{
+        flex-direction: column;
+        
+    }
+    .banner-section-box-flex{
+        width: 100%;
+        margin-top: 0;
+    }
+    .banner-section-box-flex-para {
+        width: 100%;
+        font-size: 15px;
+        text-align: center;
+    }
+    .followers-box {
+        width: 40%;
+        margin-top: 20%;
+        margin-left: 51%;
+    }
+    .banner-section-para{
+        font-size: 16px;
+    }
+    .banner-section-hadding{
+        font-size: 40px;
+    }
+    .banner-section-para2{
+        font-size: 14px;
+    }
+    .banner-section-button{
+        font-size: 16px;
+    }
+    .banner-section-button2{
+        font-size: 16px;
+    }
+    .banner-section-pic2{
+        margin-top: 8%;
+    }
+    .banner-section-client-box2 {
+        width: 30%;
+        margin-left: 10px;
+    }
+    .banner-section-box-flex-pic {
+        width: 50%;
+        margin-left: 25%;
+    }
+    .banner-section-box-flex-pic2 {
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 0;
+    }
+    .banner-section-box-flex-pic3 {
+        width: 50%;
+        margin-left: 25%;
+    }
+    .about-section-box2{
+        width: 45%;
+    }
+    .about-section-box {
+        height: 249px;
+    }
+    .layer-icon {
+        margin-top: -14%;
+    }
+    .skill-section-para{
+        margin-top: 15%;
+    }
+    .skill-section-box-postion {
+        margin-top: 11%;
+        height: 210px;
+    }
+    .skill-section-box-postion-pic {
+        margin-top: -51%;
+        width: 60%;
+        margin-left: 64px;
+    }
+    .testimonial-section-box-pic{
+        width: 17%;
+    }
+    .services-section-pic{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 421px) {
+    .nav-menu-active::after {
+        width: 9%;
+    }
+
+    .nav-menu {
+        margin-left: 0;
+    }
+
+    .banner-section-pic {
+        width: 60%;
+        margin-top: -81.2%;
+        margin-left: 62px;
+    }
+
+    .banner-section-client-box {
+        width: 44%;
+        margin-top: -50%;
+        margin-left: 11px;
+    }
+
+    .correct-icon {
+        margin-top: -45%;
+        margin-left: 217px;
+    }
+
+    .banner-section-colour-round {
+        width: 50%;
+        margin-top: 40%;
+    }
+
+    .banner-section-box-line {
+        width: 5px;
+        height: 50px;
+        background-color: var(--yellow-color);
+        border-radius: 10px;
+        margin-top: -2.3%;
+        margin-left: 20px;
+    }
+
+    .banner-section-box-line2 {
+        width: 5px;
+        height: 60px;
+        background-color: var(--yellow-color);
+        border-radius: 10px;
+        margin-top: -8%;
+        margin-left: 10px;
+    }
+
+    .banner-section-box-line3 {
+        width: 5px;
+        height: 40px;
+        background-color: var(--yellow-color);
+        border-radius: 10px;
+        margin-top: 6px;
+        margin-left: 10px;
+    }
+
+    .banner-section-box-line4 {
+        width: 5px;
+        height: 70px;
+        background-color: var(--yellow-color);
+        border-radius: 10px;
+        margin-top: -15%;
+        margin-left: 10px;
+    }
+    .mic-icon {
+        margin-top: 100%;
+        margin-left: 74%;
+    }
+    .banner-section-box{
+        flex-direction: column;
+        
+    }
+    .banner-section-box-flex{
+        width: 100%;
+        margin-top: 0;
+    }
+    .banner-section-box-flex-para {
+        width: 100%;
+        font-size: 15px;
+        text-align: center;
+    }
+    .followers-box {
+        width: 40%;
+        margin-top: 20%;
+        margin-left: 0;
+    }
+    .banner-section-hadding {
+        font-size: 45px;
+    }
+    .about-section-box {
+        height: 201px;
+    }
+    .services-section-hadding{
+        font-size: 30px;
+    }
+    .services-section-pic{
+        width: 100%;
+    }
+    .skill-section-hadding{
+        font-size: 40px;
+    }
+    .skill-section-box-postion-pic {
+        margin-top: -61%;
+        width: 70%;
+        margin-left: 30px;
+    }
+    .testimonial-section-hadding{
+        font-size: 32px;
+    }
+}
